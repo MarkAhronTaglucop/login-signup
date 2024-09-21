@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.empty-password{
+    color: #F95959;
+}
+.inavlid{
+    color: #F95959;
+}
+.text-error{
+    color: #F95959;
+}
+.text-err{
+    color: #F95959;
+}
